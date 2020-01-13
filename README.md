@@ -1,5 +1,7 @@
 # LeelaSabaki
 
+**LeelaSabaki has been deprecated as of Sabaki v0.40.0. Use the integrated analysis features instead.**
+
 [Leela (Zero)](https://www.sjeng.org/leela.html) integration with [Sabaki](http://sabaki.yichuanshen.de).
 
 ![Screenshot](./screenshot.png)
@@ -66,3 +68,8 @@ $ npm run build
 ~~~
 
 This will create an executable file in `/bin`.
+
+## Related
+
+* [gtp](https://github.com/SabakiHQ/gtp) - A Node.js module for handling GTP engines.
+
